@@ -6,3 +6,8 @@ This coding challenge, Divisible Sum Pairs, requires you to find the number of v
 * The sum of the elements at indices i and j is divisible by a given integer k.
 
 ## Function Signature
+
+```
+def divisibleSumPairs(n: int, ar: List[int], k: int) -> int:
+
+```
