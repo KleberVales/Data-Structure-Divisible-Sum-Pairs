@@ -1,13 +1,5 @@
 # Data-Structure-Divisible-Sum-Pairs
 
-This coding challenge, Divisible Sum Pairs, requires you to find the number of valid pairs (i,j) in an array where:
+Given an array of integers and a positive integer k, determine the number of (i, j) pairs where i < j  and ar[i]  + ar[j] is divisible by k.
 
-* 0 ≤ i < j < n (i.e., i comes before j in the array)
-* The sum of the elements at indices i and j is divisible by a given integer k.
 
-## Function Signature
-
-```
-def divisibleSumPairs(n: int, ar: List[int], k: int) -> int:
-
-```
