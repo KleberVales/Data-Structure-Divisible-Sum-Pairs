@@ -8,4 +8,6 @@ k = 5
 
 Three pairs meet the criteria: [1, 4], [2, 3],  and [4, 6] .
 
+### Function Description
+
 
