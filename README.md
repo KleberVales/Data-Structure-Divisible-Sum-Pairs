@@ -18,4 +18,6 @@ divisibleSumPairs has the following parameter(s):
 * int ar[n]: an array of integers
 * int k: the integer divisor
 
+### Returns
+
 
