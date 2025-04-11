@@ -15,5 +15,6 @@ Complete the divisibleSumPairs function in the editor below.
 divisibleSumPairs has the following parameter(s):
 
 * int n: the length of array ar
+* int ar[n]: an array of integers
 
 
