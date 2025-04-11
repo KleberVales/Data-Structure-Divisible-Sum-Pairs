@@ -12,4 +12,6 @@ Three pairs meet the criteria: [1, 4], [2, 3],  and [4, 6] .
 
 Complete the divisibleSumPairs function in the editor below.
 
+divisibleSumPairs has the following parameter(s):
+
 
