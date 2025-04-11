@@ -24,6 +24,8 @@ divisibleSumPairs has the following parameter(s):
 
 ### Input Format
 
+The first line contains  space-separated integers, n and k.
+
 
 
 
