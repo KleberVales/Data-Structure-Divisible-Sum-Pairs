@@ -22,6 +22,10 @@ divisibleSumPairs has the following parameter(s):
 
 - int: the number of pairs
 
+### Input Format
+
+
+
 
 
 
