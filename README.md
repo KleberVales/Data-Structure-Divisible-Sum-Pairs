@@ -10,4 +10,6 @@ Three pairs meet the criteria: [1, 4], [2, 3],  and [4, 6] .
 
 ### Function Description
 
+Complete the divisibleSumPairs function in the editor below.
+
 
