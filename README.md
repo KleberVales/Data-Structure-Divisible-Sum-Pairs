@@ -20,4 +20,8 @@ divisibleSumPairs has the following parameter(s):
 
 ### Returns
 
+- int: the number of pairs
+
+
+
 
