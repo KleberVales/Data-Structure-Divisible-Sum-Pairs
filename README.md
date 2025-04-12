@@ -36,6 +36,8 @@ The second line contains n space-separated integers, each a value of arr[i].
 
 ### Sample Input
 
+STDIN           Function
+
 
 
 
