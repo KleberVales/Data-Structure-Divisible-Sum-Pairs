@@ -39,6 +39,7 @@ The second line contains n space-separated integers, each a value of arr[i].
 ```
 STDIN           Function
 -----          ----------
+6 3             n = 6, k = 3
 
 ```
 
