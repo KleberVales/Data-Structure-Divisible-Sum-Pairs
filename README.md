@@ -44,6 +44,11 @@ STDIN           Function
 
 ```
 
+### Sample Output
+```
+5
+```
+
 
 
 
