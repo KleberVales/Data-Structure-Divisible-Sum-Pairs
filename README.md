@@ -30,7 +30,8 @@ The second line contains n space-separated integers, each a value of arr[i].
 
 ### Constraints
 
-2 <= n <= 100
+2 <= n <= 100\
+1 <= k <= 100
 
 
 
